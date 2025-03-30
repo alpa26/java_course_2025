@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        BankAccount bankAccount = new BankAccount(10);
+        BankAccount bankAccount = new BankAccount(10.0);
         bankAccount.GetAmount();
         double dep = 20;
         bankAccount.MakeDeposit(dep);

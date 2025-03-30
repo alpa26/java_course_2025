@@ -19,6 +19,6 @@ public class BankAccount implements IBankAccount{
 
     @Override
     public void GetAmount() {
-        System.out.printf("Ваш текущий счет %d рублей \n", MoneyAmount);
+        System.out.printf("Ваш текущий счет %.2f рублей \n", MoneyAmount);
     }
 }

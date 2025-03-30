@@ -9,6 +9,7 @@ public class Main {
         String name = in.nextLine();
         System.out.println("Введите возраст:");
         int age = in.nextInt();
+        in.nextLine();
         System.out.println("Введите пол (М/Ж):");
         String sex = in.nextLine();
         Person man = new Person(name,age,sex);

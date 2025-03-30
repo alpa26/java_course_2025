@@ -13,14 +13,12 @@ public class Task2 {
         int num = 0;
         for (int i = 0; i < matrix.length; i++){
             if(i % 2 == 0)
-                for (int j = 0; j < matrix[i].length; j++)
-                {
+                for (int j = 0; j < matrix[i].length; j++){
                     matrix[i][j] = num;
                     num++;
                 }
             else
-                for (int j = matrix[i].length-1 ; j >= 0; j--)
-                {
+                for (int j = matrix[i].length-1 ; j >= 0; j--){
                     matrix[i][j] = num;
                     num++;
                 }
