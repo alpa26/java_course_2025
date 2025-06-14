@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ParkingLot>
+    <Automobile>
+        <Brand>Toyota</Brand>
+        <Model>Camry</Model>
+        <Year>2020</Year>
+        <Color>White</Color>
+        <LicensePlate>ABC-1234</LicensePlate>
+    </Automobile>
+    <Automobile>
+        <Brand>Honda</Brand>
+        <Model>Civic</Model>
+        <Year>2018</Year>
+        <Color>Black</Color>
+        <LicensePlate>MAR-9876</LicensePlate>
+    </Automobile>
+    <Automobile>
+        <Brand>Ford</Brand>
+        <Model>Focus</Model>
+        <Year>2019</Year>
+        <Color>Yellow</Color>
+        <LicensePlate>XYZ-9876</LicensePlate>
+    </Automobile>
+    <Automobile>
+        <Brand>Chevrolet</Brand>
+        <Model>Malibu</Model>
+        <Year>2021</Year>
+        <Color>Blue</Color>
+        <LicensePlate>LMN-4567</LicensePlate>
+    </Automobile>
+    <Automobile>
+        <Brand>BMW</Brand>
+        <Model>320i</Model>
+        <Year>2022</Year>
+        <Color>Black</Color>
+        <LicensePlate>LMN-1234</LicensePlate>
+    </Automobile>
+</ParkingLot>

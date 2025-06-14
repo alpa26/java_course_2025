@@ -1,0 +1,39 @@
+{
+  "Automobiles": [
+    {
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "Year": 2020,
+      "Color": "White",
+      "LicensePlate": "ABC-1234"
+    },
+    {
+      "Brand": "Honda",
+      "Model": "Civic",
+      "Year": 2018,
+      "Color": "Black",
+      "LicensePlate": "MAR-9876"
+    },
+    {
+      "Brand": "Ford",
+      "Model": "Focus",
+      "Year": 2019,
+      "Color": "Yellow",
+      "LicensePlate": "XYZ-9876"
+    },
+    {
+      "Brand": "Chevrolet",
+      "Model": "Malibu",
+      "Year": 2021,
+      "Color": "Blue",
+      "LicensePlate": "LMN-4567"
+    },
+    {
+      "Brand": "BMW",
+      "Model": "320i",
+      "Year": 2022,
+      "Color": "Black",
+      "LicensePlate": "LMN-1234"
+    }
+  ]
+}
